@@ -1,4 +1,4 @@
-## 我是✨KKK_Kiral✨ 👋
+## 我是✨Taylor✨ 👋
 
 - 😄 **简介：** 北京某公司算法工程师，数据分析、机器学习、深度学习爱好者
 - 🐟 **作品：**<a href="https://2951121599.github.io/" target="_blank">编程导航 </a> | <a href="https://github.com/Django-Outsourcing-platform/Outsourcing_platform" target="_blank">基于Django的程序员外包平台 </a> | <a href="https://github.com/Django-Outsourcing-platform/Outsourcing_platform" target="_blank">求星星 ✨</a>
